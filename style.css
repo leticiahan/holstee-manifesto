@@ -1,0 +1,267 @@
+/* write your CSS here */
+
+body {
+    font-family: 'Slabo 27px', serif;
+    text-transform: uppercase;
+    color: #333333;
+    text-align: justify;
+}
+
+
+div {
+    float: left;
+    padding: 0px 2px 0px 2px;
+}
+
+
+
+.wrapper {
+    width: 500px;
+    overflow: auto;
+}
+
+#first-div {
+    width: 247px;
+    height: 90px;
+    padding: 0px 1px 0px 2px;
+
+}
+
+#next-to-first-div {
+    width: 247px;
+    height: 90px;
+    padding: 0px 2px 0px 1px;
+}
+
+#second-div-six-lines {
+    clear: both;
+    width: 496px;
+    height: 180px;
+}
+
+#third-div {
+    width: 267px;
+    height: 60px;
+    padding: 0px 1px 0px 2px;
+    margin-top: 0px;
+}
+
+#next-to-third-div {
+    width: 227px;
+    height: 60px;
+    padding: 0px 2px 0px 1px;
+}
+
+#fourth-div-four-lines {
+    clear: both;
+    width: 496px;
+    height: 100px;
+}
+
+#fifth-div {
+    width: 267px;
+    height: 35px;
+    padding: 0px 1px 0px 2px;
+}
+
+#next-to-fifth-div {
+    width: 227px;
+    height: 35px;
+    padding: 0px 2px 0px 1px;
+}
+
+#sixth-div-four-lines {
+    clear: both;
+    width: 496px;
+    height: 115px;
+}
+
+#seventh-div {
+    width: 197px;
+    height: 170px;
+    padding: 0px 1px 0px 2px;
+}
+
+#next-to-seventh-div {
+    width: 280px;
+    height: 140px;
+    padding: 0px 2px 0px 10px;
+    margin: 0px 0px 0px 8px;
+}
+
+
+.emphasis-1 {
+    font-size: 120px;
+    line-height: 60%;
+
+}
+
+.emphasis-2 {
+    font-size: 70px;
+    line-height: 90%;
+}
+#font-variant-12 {
+ 	word-spacing: 5px;
+}
+
+.emphasis-3 {
+    font-size: 55px;
+    word-spacing: 7px;
+    line-height: 65%;
+    font-weight: bold;
+}
+
+.emphasis-4 {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 20%;
+	word-spacing: 7px;
+}
+
+#font-variant-3 {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 110%;
+    word-spacing: 5px;
+}
+
+#font-variant-8 {
+    font-size: 39px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
+
+#font-variant-14 {
+ 	font-size: 42px;
+    line-height: 85%;
+    word-spacing: 10px;
+}
+
+.emphasis-5 {
+    font-size: 36px;
+    line-height: 100%;
+    font-weight: bold;
+}
+#font-variant-13 {
+ 	font-size: 34px;
+    word-spacing: 5px;
+    line-height: 130%;
+}
+
+.emphasis-6 {
+    font-size: 33px;
+    word-spacing: 1px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+#font-variant-11{
+ 	word-spacing: 6px;
+}
+
+.emphasis-7 {
+    font-size: 29px;
+    line-height: 80%;
+    font-weight: bold;
+    word-spacing: 6px;
+}
+
+#font-variant-4{
+    line-height: 10px;
+}
+
+.emphasis-8 {
+    font-size: 27px;
+    font-weight: bold;
+    word-spacing: 1px;
+}
+
+
+
+.emphasis-9 {
+    font-size: 26px;
+    line-height: 10px;
+    word-spacing: 1px;
+}
+
+#font-variant-2 {
+    float:left;
+    font-size: 26px;
+    line-height: 12px;
+    word-spacing: 1px;
+    font-weight: bold;
+}
+
+#font-variant-7 {
+ 	font-size: 23px;
+    word-spacing: 2px;
+}
+
+#font-variant-9 {
+ 	font-size: 25px;
+   	float: left;
+    line-height: 1px;
+    font-weight: bold;
+    word-spacing: 5px;
+}
+
+.emphasis-10 {
+    font-size: 21px;
+    line-height: 10px;
+    font-weight: 600;
+}
+
+#font-variant-6{
+ 	word-spacing: 5px;
+}
+
+.emphasis-11 {
+    font-size: 20px;
+    word-spacing: 2px;
+    font-weight: 700;
+    line-height: 110%;
+}
+
+#font-variant-1 {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: bold;
+    word-spacing: 3px;
+}
+
+#font-variant-5 {
+    word-spacing: 4px;
+}
+
+#font-variant-10 {
+ 	word-spacing: 5px;
+    line-height: 0px;
+    font-weight: 100;
+}
+
+.emphasis-12 {
+    font-size: 20px;
+    word-spacing: 2px;
+}
+
+.emphasis-13 {
+    float: left;
+    font-size: 20px;
+    line-height: 1px;
+}
+
+.emphasis-14 {
+    float: left;
+    font-size: 18px;
+    line-height: 0px;
+    word-spacing: 2px;
+    font-weight: bold;
+}
+
+.emphasis-15 {
+    float: left;
+    font-size: 17px;
+    line-height: 0px;
+    font-weight: bold;
+}
